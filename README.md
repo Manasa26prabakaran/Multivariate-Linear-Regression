@@ -41,11 +41,4 @@ Thus the multivariate linear regression is implemented and predicted the output 
 
 
 ```
-## Output:
-
-### Insert your output
-
-<br>
-
-## Result
-Thus the multivariate linear regression is implemented and predicted the output using python program.
+linear regression is implemented and predicted the output using python program.
